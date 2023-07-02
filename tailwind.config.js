@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
         backgroundImage:{
-          "pp": "url('https://img.freepik.com/free-photo/liquid-flame-drops-splashing-vibrant-colors-underwater-generated-by-ai_188544-39973.jpg?t=st=1688327412~exp=1688328012~hmac=68f2739816b67ebddf2575c951137ba3fd56bfaa36a6325d266ac049838a0574&w=826')",
+          "pp": "url('https://images.unsplash.com/photo-1614851099511-773084f6911d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80')",
         }
     },
   },
